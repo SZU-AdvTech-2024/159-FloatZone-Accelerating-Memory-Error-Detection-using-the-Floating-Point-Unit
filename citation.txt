@@ -1,0 +1,7 @@
+@inproceedings{REPO159,
+    author = "Gorter, Floris and Barberis, Enrico and Isemann, Raphael and Van Der Kouwe, Erik and Giuffrida, Cristiano and Bos, Herbert",
+    booktitle = "32nd USENIX Security Symposium (USENIX Security 23)",
+    pages = "805--822",
+    title = "{$\{$FloatZone$\}$: Accelerating Memory Error Detection using the Floating Point Unit}",
+    year = "2023"
+}
