@@ -1,0 +1,3 @@
+llvm-default/*
+llvm-floatzone/*
+*.so
